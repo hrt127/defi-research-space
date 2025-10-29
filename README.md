@@ -49,9 +49,9 @@ This space goes beyond research—automation is a core theme here.
 
 Want to add research, or maybe a new banana fact? Fork away.  
 We’re chill. Just:
-- Keep it weird but smart
+- Keep it real you weird can't read vibes
 - Be provocative and respectful
-- Engage others in th0ts™
+- Engage others in th0ts™ - ASKING QUESTIONS IS COOL fuck anyone that says otherwise
 - If it makes someone say “wtf that’s actually interesting,” it belongs here
 
 ---
