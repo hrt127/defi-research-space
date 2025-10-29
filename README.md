@@ -1,17 +1,15 @@
 # DeFi Research Space
 
-<details>
   <summary>🧠 Aim</summary>
 
   A living, collaborative hub for exploring, tracking, and riffing on every wild twist in DeFi—where trends, tech, and offbeat ideas collide.
-</details>
 
 ---
 
-<details>
   <summary>🤔 What is this really for?</summary>
 
-- Donno yet kek 😂 I hardly ever know wot I'm doing, but one thing I do know - JUST DO IT, is better than plump sexy ass sitting doing nada
+ **Donno yet kek 😂** 
+I hardly ever know wot I'm doing, but one thing I do know - JUST DO IT, is better than plump sexy ass sitting doing nada. so many th0ts and dreams and ideas I wanna give some plump curves real weighty balls. fr tho, probz some of this and some more over time 👇
 
 - **Serious stuff:** In-depth analysis and recurring research on L1/L2 trends, DAOs, new protocol upgrades, liquidity adventures, and airdrop playbooks.
 - **Prediction markets:** Dedicated space to dissect market creation, odds, governance, and up-and-coming platforms—plus a running log of my own niche market experiments.
@@ -20,7 +18,6 @@
 - **Future plans:** Reviews of tech upgrades (like Fusaka), bridge experiments, composable modules for protocol chaos, memecoin fusions, wild governance hacks, and anything DeFi that’s sufficiently unhinged.
 - **Zero-context creativity:** Sometimes, what shows up here will be half-baked, one-off, or batsh*t crazy—because true innovation starts with a little chaos. On those days maybe chat some bera too 🐻
 
-</details>
 
 ---
 
@@ -41,7 +38,6 @@
 
 ---
 
-<details>
   <summary>⚙️ Automation & Agents: Onchain Empowerment</summary>
 
   This space goes beyond research—automation is a core theme here.
@@ -49,9 +45,8 @@
   - **Perplexity AI & Agent Workflows:** Use bots, agents, and auto-updating research pipelines for live DeFi data, price alerting, and tracking trends.
   - **Anyone can learn agent workflows—yes, you!** There are guides, templates, and experiment logs for stacking tools (Perplexity, GitHub Actions, custom bots) so you can automate your own trading, research, or voting setup.
   - The repo’s very own **GitHub Actions** workflow powers things like “Banana of the Day”—showing that playful automation can make onchain life smoother, weirder, and a lot more fun.
-  - Fork or clone this project to grow your own stack and be a little more “supernatural” onchain.
+  - Fork or clone this project to grow your own stack and be a little more wear your underpants on the outside onchain.
 
-</details>
 
 ---
 
