@@ -7,8 +7,10 @@
 ---
 
   <summary>🤔 What is this really for?</summary>
+  
 
  **Donno yet kek 😂** 
+ 
 I hardly ever know wot I'm doing, but one thing I do know - JUST DO IT, is better than plump sexy ass sitting doing nada. so many th0ts and dreams and ideas I wanna give some plump curves real weighty balls. fr tho, probz some of this and some more over time 👇
 
 - **Serious stuff:** In-depth analysis and recurring research on L1/L2 trends, DAOs, new protocol upgrades, liquidity adventures, and airdrop playbooks.
