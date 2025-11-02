@@ -46,7 +46,7 @@ Economic analysis framework for MetaMask Rewards Season 1:
 
 ### MetaMask Rewards Season 1
 [Full calculator and analysis](https://github.com/hrt127/metamask-rewards-calculator)  
-$30M LINEA token distribution over 90 days. Compare farming routes, costs, and potential returns.
+$x LINEA token distribution over x(90?) days. Compare farming routes, costs, and potential returns.
 
 ---
 
